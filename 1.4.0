@@ -1,2 +1,2 @@
-Requirement already satisfied: torch in f:\pythoncode\venv\lib\site-packages (1.13.0)
+equirement already satisfied: torch in f:\pythoncode\venv\lib\site-packages (1.13.0)
 Requirement already satisfied: typing-extensions in f:\pythoncode\venv\lib\site-packages (from torch) (4.4.0)
